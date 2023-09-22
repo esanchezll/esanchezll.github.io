@@ -9,18 +9,21 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Alicante, Spain</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Eduardo Sánchez is a Marine Sciences Graduated, Sustainable Fisheries Management M.Sc., Business and Economics PhD student at the University of Santiago de Compostela (Spain). He is also M.Sc. student in Data Science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+From the outset, his research has focused on natural resource assessment and management, primarily in marine fisheries and forestry. Eduardo Sánchez's research interests primarily revolve around assessing the implementation of management measures and mitigating the effects of climate change at economic, social, and biological levels.
+
+<p>Currently, he works as a freelance auditor for fisheries certified by the Marine Stewardship Council (MSC), mainly as P2 and P3 expert. He is also accredited as Team Leader. In this role, he is responsible for evaluating and verifying the sustainability of fishing practices in various regions worldwide, ensuring strict compliance with the MSC's rigorous standards.
+
+<p>Presently, Eduardo is engaged in research related to Input-Output analysis, shellfish poaching, and the commoditization of marine resources. To date, Eduardo Sánchez has contributed to approximately ten publications in various academic journals.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
