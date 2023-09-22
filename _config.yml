@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -69,14 +69,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: esanchezll# your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: https://twitter.com/EduardoSanLla # your Twitter handle
+twitter_username: EduardoSanLla # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: https://www.linkedin.com/in/eduardo-s%C3%A1nchez-llamas-63785683/ # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: https://scholar.google.com/citations?user=Jke8kp4AAAAJ&hl=es # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: +34617673861 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: https://orcid.org/0000-0002-7832-027X # your ORCID ID
+# whatsapp_number: +34617673861 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+orcid_id: 0000-0002-7832-027X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -90,7 +90,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-stackoverflow_id: https://stackoverflow.com/users/9025654/edusanlla # your stackoverflow id
+stackoverflow_id: edusanlla # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  # Aquí se puede añadir una nota para contacto. 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
