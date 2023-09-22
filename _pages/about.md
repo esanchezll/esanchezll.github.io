@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Fisheries economics researcher at University of Santiago de Compostela, ECOPESCA Research Group PhD student in Economics & Business. Faculty of Economics and Business Studies. 
-Contacto: [edu.sanchez@usc.es](mailto:edu.sanchez@usc.es)
+Contacto: edu.sanchez@usc.es
 
 
 profile:
