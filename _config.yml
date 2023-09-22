@@ -9,7 +9,7 @@ last_name: Sánchez-Llamas
 email: edusanlla@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Eduardo Sánchez-Llamas.  >
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: Fisheries research, environmental research, climate change, environmental economics # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🐠  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
