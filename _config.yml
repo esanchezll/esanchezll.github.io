@@ -71,7 +71,7 @@ github_username: esanchezll# your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: EduardoSanLla # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: https://www.linkedin.com/in/eduardo-s%C3%A1nchez-llamas-63785683/ # your LinkedIn user name
+linkedin_username: Eduardo Sánchez Llamas # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: https://scholar.google.com/citations?user=Jke8kp4AAAAJ&hl=es # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -82,7 +82,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: https://www.researchgate.net/profile/Eduardo-Sanchez-Llamas # your profile on ResearchGate
+research_gate_profile: Eduardo Sánchez Llamas # your profile on ResearchGate
 scopus_id: 57784182700 # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -90,7 +90,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-stackoverflow_id: edusanlla # your stackoverflow id
+stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
