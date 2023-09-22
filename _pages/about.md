@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Fisheries economics researcher at University of Santiago de Compostela, ECOPESCA Research Group PhD student in Economics & Business. Faculty of Economics and Business Studies. <a href="mailto:edu.sanchez@usc.es" target="_blank" rel="noopener noreferrer">edu.sanchez@usc.es</a>
+
+Freelance MSC Fisheries Auditor.
+<br><a href="mailto:edusanlla@gmail.com" target="_blank" rel="noopener noreferrer">edusanlla@gmail.com</a>
 
 profile:
   align: right
