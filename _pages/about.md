@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Fisheries economics researcher at University of Santiago de Compostela, ECOPESCA Research Group PhD student in Economics & Business. Faculty of Economics and Business Studies. 
-
-Freelance MSC Fisheries Auditor.
+subtitle: Fisheries economics researcher at University of Santiago de Compostela, ECOPESCA Research Group PhD student in Economics & Business. Faculty of Economics and Business Studies. Freelance MSC Fisheries Auditor.
 
 
 profile:
