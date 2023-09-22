@@ -22,8 +22,8 @@ Eduardo Sánchez is a Marine Sciences Graduated, Sustainable Fisheries Managemen
 
 From the outset, his research has focused on natural resource assessment and management, primarily in marine fisheries and forestry. Eduardo Sánchez's research interests primarily revolve around assessing the implementation of management measures and mitigating the effects of climate change at economic, social, and biological levels.
 
-<p>Currently, he works as a freelance auditor for fisheries certified by the Marine Stewardship Council (MSC), mainly as P2 and P3 expert. He is also accredited as Team Leader. In this role, he is responsible for evaluating and verifying the sustainability of fishing practices in various regions worldwide, ensuring strict compliance with the MSC's rigorous standards.
+Currently, he works as a freelance auditor for fisheries certified by the Marine Stewardship Council (MSC), mainly as P2 and P3 expert. He is also accredited as Team Leader. In this role, he is responsible for evaluating and verifying the sustainability of fishing practices in various regions worldwide, ensuring strict compliance with the MSC's rigorous standards.
 
-<p>Presently, Eduardo is engaged in research related to Input-Output analysis, shellfish poaching, and the commoditization of marine resources. To date, Eduardo Sánchez has contributed to approximately ten publications in various academic journals.
+Presently, Eduardo is engaged in research related to Input-Output analysis, shellfish poaching, and the commoditization of marine resources. To date, Eduardo Sánchez has contributed to approximately ten publications in various academic journals.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
