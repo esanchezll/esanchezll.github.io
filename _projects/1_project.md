@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Landing Obligation
+description: Dynamic Integrated Model for assessing landing obligation effects on EU fisheries.
+img: assets/img/Figura_LO_800x534.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: da2021dynamic
 ---
 
 Every project has a beautiful feature showcase page.
