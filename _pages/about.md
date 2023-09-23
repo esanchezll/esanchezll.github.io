@@ -11,7 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>🚩  Alicante, Spain</p>
+    <p><a href='https://maps.app.goo.gl/Z3uMqA5pcSNHQwkU9'>🚩 Alicante, Spain </a> </p>
 
 
 news: false  # includes a list of news items
