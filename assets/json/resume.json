@@ -4,7 +4,6 @@
     "label": "Fisheries Researcher",
     "image": "",
     "email": "edusanlla@gmail.com",
-    "phone": " ",
     "url": "https://esanchezll.github.io/",
     "summary": "A Spanish-born fisheries researcher.",
     "location": {
@@ -30,7 +29,8 @@
       "startDate": "2023-08-01",
       "endDate": "",
       "summary": "MSC Fisheries Freelance Auditor."
-    } {
+    }, 
+    {
       "name": "Bureau Veritas Iberia",
       "position": "MSC Fisheries Auditor",
       "url": "https://www.bureauveritas.es/",
