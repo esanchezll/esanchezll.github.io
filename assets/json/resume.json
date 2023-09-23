@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Eduardo Sánchez-Llamas",
-    "label": "Fisheries and economics researcher",
+    "label": "Fisheries Researcher",
     "image": "",
     "email": "edusanlla@gmail.com",
     "phone": " ",
@@ -24,15 +24,19 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Freelance",
+      "position": "Fisheries Researcher",
+      "url": "https://esanchezll.github.io/",
+      "startDate": "2023-08-01",
+      "endDate": "",
+      "summary": "MSC Fisheries Freelance Auditor."
+    } {
+      "name": "Bureau Veritas Iberia",
+      "position": "MSC Fisheries Auditor",
+      "url": "https://www.bureauveritas.es/",
+      "startDate": "2022-01-11",
+      "endDate": "2023-01-07",
+      "summary": "MSC fisheries team at Bureau Veritas.",
     }
   ],
   "volunteer": [],
