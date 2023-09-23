@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Fisheries economics researcher at University of Santiago de Compostela, ECOPESCA Research Group PhD student in Economics & Business. Faculty of Economics and Business Studies. 
-
-subtitle: Freelance MSC Fisheries Auditor. 
+subtitle: Fisheries economics researcher, ECOPESCA Research Group PhD student in Economics and Business, & Freelance MSC Fisheries Auditor. 
 
 
 profile:
@@ -21,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Eduardo Sánchez is a Marine Sciences Graduated, Sustainable Fisheries Management M.Sc., Business and Economics PhD student at the University of Santiago de Compostela (Spain). He is also M.Sc. student in Data Science.
+Eduardo Sánchez is a Marine Sciences Graduated, Sustainable Fisheries Management M.Sc., Business and Economics PhD student at the University of Santiago de Compostela (Galicia, Spain). He is also M.Sc. student in Data Science.
 
 From the outset, his research has focused on natural resource assessment and management, primarily in marine fisheries and forestry. Eduardo Sánchez's research interests primarily revolve around assessing the implementation of management measures and mitigating the effects of climate change at economic, social, and biological levels.
 
