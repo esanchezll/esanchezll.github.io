@@ -67,11 +67,15 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Catalán",
       "fluency": "Fluent"
     }
   ],
