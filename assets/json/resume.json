@@ -27,7 +27,7 @@
       "position": "Fisheries Researcher",
       "url": "https://esanchezll.github.io/",
       "startDate": "2023-08-01",
-      "endDate": "",
+      "endDate": "-",
       "summary": "MSC Fisheries Freelance Auditor."
     }, 
     {
@@ -56,10 +56,10 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "EAERE Outstanding Publication",
+      "date": "2022-03-01",
+      "awarder": "European Association of Environmental and Resource Economists (EAERE)",
+      "summary": "European Association of Environmental and Resource Economists outstanding publication for Discard Bans as an Implicit Value Added Tax: (Macro)Integrated Model for Assessing Fisheries"
     }
   ],
   "certificates": [],
