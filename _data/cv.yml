@@ -16,27 +16,22 @@
       year: 2020 - Currently
       description:
 	- PhD. Thesis: The commoditization phenomena in the fishing sector. 
+
     - title: M.Sc. in Sustainable Fisheries Management
       institution: Universidad de Alicante
       year: 2015 - 2017
+
     - title: Degree in Marine Sciences
       inistitution: Universidad de Alicante
       year: 2010 - 2014
 
-
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    - title: MSC Fisheries Auditor
+      institution: Freelance
+      year: 2023 - Currently
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
