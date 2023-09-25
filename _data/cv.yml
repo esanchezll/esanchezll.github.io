@@ -8,60 +8,6 @@
     - name: Languages
       value: Spanish, English, Catalán
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD. in Economics and Business
-      institution: Universidade de Santiago de Compostela, Santiago de Compostela, Galicia, Spain. 
-      year: 2020 - 
-      description:
-	- PhD. Thesis: The commoditization phenomena in the fishing sector. 
-
-    - title: M.Sc. in Data Science
-      institution: Universitat Oberta de Catalunya
-      year: 2023 - 
-
-    - title: M.Sc. in Sustainable Fisheries Management
-      institution: Universidad de Alicante
-      year: 2015 - 2017
-
-    - title: Degree in Marine Sciences
-      inistitution: Universidad de Alicante
-      year: 2010 - 2014
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: MSC Fisheries Auditor
-      institution: Freelance
-      year: 2023 - 
-
-    - title: MSC Fisheries Auditor
-      institution: Bureau Veritas
-      year: 2022 - 2023
-
-    - title: Research Assistant
-      institution: Universidade de Santiago de Compostela (ECOPESCA Team)
-      year: 2019 - 2023
-
-    - title: Research Assistant
-      institution: Universidade de Vigo (ECOSOT Team)
-      year: 2018 - 2019
-
-    - title: Researcher - Fisheries Team
-      institution: FAO - General Fisheries Commission for the Mediterranean (GFCM)
-      year: 2016 - 2017
-
-    - title: Researcher - Standards Team
-      institution: Marine Stewardship Council (MSC)
-      year: 2014
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
@@ -69,6 +15,7 @@
     - year: 2022
       items: 
         - EAERE Outstanding Publication
+
 
 - title: Academic Interests
   type: nested_list
