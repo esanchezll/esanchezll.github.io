@@ -11,22 +11,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.Sc. 
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD. in Economics and Business
+      institution: Universidade de Santiago de Compostela, Santiago de Compostela, Galicia, Spain. 
+      year: 2020 - Currently
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+	- PhD. Thesis: The commoditization phenomena in the fishing sector. 
     - title: M.Sc. in Sustainable Fisheries Management
       institution: Universidad de Alicante
-      year: 2014
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2015 - 2017
+    - title: Degree in Marine Sciences
+      inistitution: Universidad de Alicante
+      year: 2010 - 2014
+
 
 - title: Experience
   type: time_table
